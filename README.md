@@ -1,0 +1,2 @@
+# person_msgs
+このリポジトリは、robosys2023_mypkgのlessen9で使用するための独自のメッセージ型を定義したものです。
